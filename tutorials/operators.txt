@@ -1,0 +1,18 @@
+Operators : 
+|->  +  -> addition
+|->  -  -> subtraction
+|->  *  -> multiplication
+|->  /  -> division
+|->  || -> logical OR                    requires two conditions and the true one is the output.
+|->  && -> logical AND
+
+
+falsy conditions:-
+|->  0
+|->  false
+|->  undefined
+|->  NaN
+|->  null
+|->  ""
+|->  document.all
+

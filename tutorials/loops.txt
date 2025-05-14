@@ -1,0 +1,7 @@
+Loops :-
+|-> for -> for(var a = 0; a<12;a++){ console.log(i);}
+|-> for-each -> To use foreach, array is required.
+|-> for-in
+|-> while
+|-> do-while
+|-> for-of

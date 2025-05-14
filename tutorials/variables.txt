@@ -1,0 +1,14 @@
+Understanding variables, data types, operators, loops, conditional statements, functions, etc.
+
+Variables : we can create variables using var / let keyword.
+
+There are two types of variables :-
+
+1. primitive variables: Those variables not having [] , {} , () are primitive. While copying it is getting copied. and if we change in other variable, the original value does not changes.
+
+2. reference variables. Those variables having [], {}, () are reference. While copying, the reference of it is getting copied. And if we change in the other variable, the original value changes. But there's a way to copy it primitively.
+Example :-
+var a = {name: 'shashwat', type : 'student', semester : '4'};
+var b = a;      // copying with reference.
+var c = {...a}; // copying it primitively.              ... this 3 dots are spread operators.
+b.semester = '5';
