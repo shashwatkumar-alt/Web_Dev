@@ -1,0 +1,5 @@
+Javascript runs the code line by line. But some of the code are dependent on some other things. So, we 
+tend to move into asyncronous part.
+For Example,
+we have written a code and while proceeding, we want to bring some photo from google. Then if the code waits for the photo to be fetch from google servers. Then, the code would run too slow.
+But, what asyncronous does is it runs the fetching photo process concurrently. and the code ahead of fetching photo runs. And when the process is completed then asyncronous process is then combined into the main code.

@@ -1,0 +1,17 @@
+function abcd(){
+    // Function statements
+}
+
+function(){
+    // anonymous function.
+}
+
+()=>{
+    // fat arrow function.
+}
+
+a => {
+    // fat arrow function with one parameter.
+}
+
+()=>12;     // if your function return a value then no need to write in "{}"; you can write like this.

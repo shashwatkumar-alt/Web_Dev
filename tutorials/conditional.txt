@@ -1,0 +1,7 @@
+There are two types of values in conditional statements.
+|
+|-> falsy -> 0 false undefined null NaN document.all ""
+|
+|-> truthy -> all conditional other than falsy statements are called truthy conditional.
+
+Ternary operators : (condition) ? (true) : (false);
