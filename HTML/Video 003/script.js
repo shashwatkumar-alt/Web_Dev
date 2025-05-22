@@ -1,0 +1,1 @@
+alert("Mze aa gye")
